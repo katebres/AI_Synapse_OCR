@@ -1,0 +1,79 @@
+Closing Level
+
+Knock-out Event
+
+Knock-out Amount
+
+Knock-in Event
+
+Observation Date(s)
+
+Cash Settlement Payment
+Date
+
+Floating Amounts
+Floating Rate Option
+
+Designated Maturity
+Floating Rate
+
+In respect of each Asset, the official closing level of that Asset, as published by
+the relevant Exchange, provided that if the Exchange fails to publish the closing
+level on any such day and such day is not a Disrupted Day, the relevant closing
+level as determined by the Calculation Agent in good faith and a commercially
+reasonable manner as of such day.
+
+Knock-out occurs if on any Valuation Date, the Closing Level of each Asset is at
+or above its respective Autocall Strike, whereupon this Transaction shall
+immediately terminate as of such Valuation Date.
+
+No further amount shall be payable hereunder by either party except for
+amounts that have already fallen due and the payment of the relevant Knock-out
+Amount to Counterparty on the relevant Cash Settlement Payment Date.
+
+Amount in USD, if a Knock-out occurs on:
+
+1st Valuation Date
+2nd Valuation Date
+
+3rd Valuation Date
+
+3.2500% * Notional Amount
+6.5000% * Notional Amount
+9.7500% * Notional Amount
+4th Valuation Date | 13.0000% * Notional Amount
+5th Valuation Date | 16.2500% * Notional Amount
+Final Valuation Date | 19.5000% * Notional Amount
+
+Payable on the respective Cash Settlement Payment Dates.
+
+Knock-in occurs if the level at which any Asset trades
+and as published by the Exchange is below the relevant
+Knock-in Strike.
+
+Each Scheduled Trading Day that is not a Disrupted Day, from and excluding
+the Trade date to and including the Final Valuation Date.
+
+1st Payment Date | 19-Feb-20
+2nd Payment Date | 18-Aug-20
+3rd Payment Date | 18-Feb-21
+4th Payment Date | 18-Aug-21
+5th Payment Date | 17-Feb-22
+Final Payment Date | 18-Aug-22
+
+Each Cash Settlement Payment Date falls on a day that is two Business Days
+following the relevant Valuation Date. The Cash Settlement Payment Dates are
+expected to fall on the dates set out in the table above.
+
+USD-LIBOR-BBA
+3 months
+
+As per the definition of USD-LIBOR-BBA contained in the Swap Definitions, the
+rate for each Reset Date will be the rate for deposits in USD for a period of the
+Designated Maturity which appears on the day that is two London Banking Days
+preceding that Reset Date.
+
+Calculation Period | Scheduled Fixing Date
+
+1                 21-Aug-19
+

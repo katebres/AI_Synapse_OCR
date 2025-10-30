@@ -1,0 +1,68 @@
+.                   Automatic Callable Swap Linked to the Performance of NIKKEI225
+16011 17001 [ydex, HSCEI Index, S&P500 Index and the EURO STOXX 50 Index
+
+eilameuwencemmm Final Terms & Conditions as of April 24, 2019
+
+Solutions                Proprietary & Confidential
+
+3 Year Automatic Callable Swap Linked to the Performance of NIKKEI225 Index, HSCEI
+Index, S& P500 Index and the EURO STOXX50 Index
+
+Subject to Internal and Regulatory Approval
+
+Floating Amount Payer:          Shinyoung Securities Co., LTD.
+
+Equity Amount Payer:             Merrill Lynch International (“MLI’)
+
+Equity Notional Amount:          KRW 3,002,800,000
+
+Underlying Indices:               NIKKEI 225 Index (“NK Y”’) (Bloomberg Code: NKY Index)
+
+Hang Seng China Enterprises Index (“HSCEI”) (Bloomberg Code: HSCEI Index)
+S&P500 Index (“S&P500”) (Bloomberg Code: SPX Index)
+The EURO STOXX 50 Index (“SXS5E”) (Bloomberg Code:SX5E INDEX)
+
+Trade Date:                           April 24, 2019
+
+Strike Date:                           April 24, 2019
+
+Initial Valuation Date:           April 24, 2019
+
+Effective Date:                     April 30, 2019
+
+Initial Settlement Date:             Effective Date
+
+Termination Date:                   Final Cash Settlement Payment Date
+
+Equity Amount Leg:                On April 30, 2019, the Equity Amount Payer shall pay to the Floating Amount Payer a USD
+
+amount: Equity Notional Amount * [1.2%] / FXo
+
+Knock-out Determination
+
+Date:                                       1* Knock-Out Determination Day              August 23, 2019
+2™ Knock-Out Determination Day              December 23, 2019
+3™ Knock-Out Determination Day              April 24, 2020
+4" Knock-Out Determination Day              August 24, 2020
+5" Knock-Out Determination Day              December 23, 2020
+6" Knock-Out Determination Day              April 23, 2021
+7" Knock-Out Determination Day              August 24, 2021
+8" Knock-Out Determination Day              December 23, 2021
+Final Knock-Out Determination Day          April 22, 2022
+FX Rate:                                 “FXo” is 1,159.70; the KRW/USD Market Average Rate on April 26, 2019 as quoted on
+
+Reuters page KFTC18 as determined by the Calculation Agent.
+
+This information is for your private information and is for discussion purposes only. We are not soliciting any action based upon it. We are
+acting solely in the capacity of an arm’s length counterparty and not in the capacity of your financial adviser or fiduciary. We or our affiliates
+may buy or sell instruments identical or economically related to any instruments mentioned here. We or our affiliates may have an investment
+banking or other commercial relationship with the issuer of any security or financial instrument mentioned here or related thereto. Generally, all
+over-the-counter (“OTC”) derivative transactions involve the risk of adverse or unanticipated market developments, risk of illiquidity and other
+risks. A variety of market factors and assumptions may affect any scenario analysis set out herein, and any such analysis does not reflect all
+possible loss scenarios. There is no certainty that the parameters and assumptions used in any such analysis can be duplicated with actual trades.
+Unless specifically stated otherwise, any prices mentioned here are not bids or offers by MLI to purchase or sell any securities or financial
+instruments. Prior to undertaking any trade, you should discuss with your professional tax or other adviser how such particular trade(s) affect
+you. Options are not suitable for all investors. Option buyers may lose their entire investment. Option sellers may have an unlimited loss.
+
+THIS BRIEF STATEMENT DOES NOT DISCLOSE ALL OF THE RISKS AND OTHER SIGNIFICANT ASPECTS OF ENTERING INTO ANY
+PARTICULAR TRANSACTION.

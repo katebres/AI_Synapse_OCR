@@ -1,0 +1,24 @@
+===== OCR COMPARISON REPORT =====
+
+🗂 English sample:
+
+Tesseract:
+Hello, this is a test
+
+EasyOCR:
+Hello, this is a test
+
+PaddleOCR:
+Hello, this is a test
+
+
+🗂 Korean sample:
+
+Tesseract:
+안녕하세요, 테스트입니다.
+
+EasyOCR:
+안녕하세요, 테스트입니다 .
+
+PaddleOCR:
+테스트입니다

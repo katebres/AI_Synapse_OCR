@@ -1,0 +1,94 @@
+Early Cash Settlement Date (k) (k=1 to
+
+5)
+
+Early Cash Settlement Date II:
+
+Early Equity Amount (k):
+
+Early Equity Amount II :
+
+Performance (‘,)
+
+UW)
+Ud
+Lowest Performance (k)
+
+Equity Amount
+
+Valuation Time
+
+Glider Valuation Time
+
+Valuation Date (k): (k=1 to 6)
+
+Early Cash Settlement Date (1)                        18-Mar-20
+Early Cash Settlement Date (2)                        17-Sep-20
+Early Cash Settlement Date (3)                        18-Mar-21
+Early Cash Settlement Date (4)                        16-Sep-21
+Early Cash Settlement Date (5)                        17-Mar-22
+17-Sep-20
+
+Provided that if any such day is not a Currency Business Day, it shall be postponed to the following Currency Business Day.
+
+Provided that in the event of a postponement of any Valuation Date (k) which causes a Valuation Date (k) to fall less than two
+Currency Business Day prior to, or at any time after, Early Cash Settlement Date (k), Early Cash Settlement Date Payment
+(k) shall be postponed such that it falls on the second Currency Business Day following such Valuation Date (k).
+
+RR(k) x ENA
+
+Where
+
+RR(k) means the Rate of Return on the relevant Early Cash Settlement Date (k)
+RR(1) =                              2.6500%
+
+RR(2) =                              5.3000%
+
+RR(3) =                              7.9500%
+
+RR(4) =                              10.6000%
+
+RR(5) =                              13.2500%
+
+7.950% x ENA
+
+Means in respect of Underlying (i) and Valuation Date (k), the performance of such Underlying (i) on such Valuation Date (k)
+calculated as follows :
+
+U(ik) / ILG)
+Means in respect of Underlying (i) and any Valuation Date (k), the Index Level of such Underlying (i) at the Valuation Time
+on the Valuation Date (k).
+
+Means in respect of Underlying (i) and any Daily Valuation Date (t) , the Index Level of such Underlying (i) at the Glider
+Valuation Time, on the Daily Valuation Date(t).
+
+On each Valuation Date (k), the relevant Lowest Performance (k) will be calculated as follows:
+Min [ Performance(',), Performance(’,), Performance(*,) ]
+
+On Valuation Date (6), Provided that no Early Equity Amount Opportunity has occured,
+If on Valuation Date (6) the Underlying (i) with the Lowest Performance (6) is equal to or greater than its Barrier Level (6)
+
+Party A shall pay Party B                                                    15.9000%           x ENA
+Otherwise,
+
+Party B shall pay Party A                                                   ENA x [1-Lowest Performance (6)]
+The time at which the Index Level of the Underlying (i) is published or announced by the Exchange.
+
+In respect of Underlying (i), the Scheduled Closing Time on the relevant Exchange on the relevant Daily Valuation Date (t). If
+the relevant Exchange closes prior to its Scheduled Closing Time, the Glider Valuation Time shall be such actual closing time
+
+Valuation Date (1)                          16-Mar-20
+Valuation Date (2)                           15-Sep-20
+Valuation Date (3)                          16-Mar-21
+Valuation Date (4)                           14-Sep-21
+Valuation Date (5)                          15-Mar-22
+Valuation Date (6)                           14-Sep-22
+
+If a Valuation Date (k) is a Disrupted Day with respect to any Underlying (i), then the Valuation Date (k) for all Underlyings
+shall be the first succeeding Exchange Business Day that is not a Disrupted Day with respect to any Underlying (i), unless
+each of the eight Exchange Business Days immediately following the Scheduled Valuation Date (k) is a Disrupted Day with
+respect to any Underlying (i). In that case (i) that eighth Exchange Business Day shall be deemed to be the Valuation Date (k)
+for all Underlyings, notwithstanding the fact that such day is a Disrupted Day with respect to any Underlying (i), and (ii) with
+respect to the relevant Underlying affected by the occurrence of a Disrupted Day on that eighth Exchange Business Day, the
+Calculation Agent shall determine the level of that Underlying (i) as of the relevant Valuation Time on that eighth Exchange
+Business Day.

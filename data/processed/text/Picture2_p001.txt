@@ -1,0 +1,39 @@
+CONFIRMATION
+
+REF : FX /0204105829
+
+KIDB Money Brokerage Corp.
+
+8th Floor, Seoul YWCA Bldg. 11Gil 20, Myeong-dong, Jung-gu, Seoul 04538, KOREA
+
+Telephone: (82-2)311-7548
+
+Meritz Securities Co., LTD
+
+Facsimile: (82-2)311-7552
+
+Buyer (Near) - Seller (Far)
+
+‘The Bank of New York Mellon Seoul
+
+(FAX :0-0-0.0 )
+Seller (Near) - Buyer (Far)
+Meritz Securities Co., LTD
+PRODUCT: FX SWAPD
+We Confirm that the FX MARKET division have arranged the following.                                                  04/02/2022
+1, NEAR
+Curr,                                   Amount                          Rate           Value Date Curreney                           Equivalent
+usp                       50,000,000.00               1,201.5000         08/02/2022           KRW                 60.075.000.000.00
+Payment                                        Payment
+TO BE ADVISED DIRECTLY                      TO BE ADVISED DIRECTLY
+2. FAR
+Curr,            Amount         Rate    Value Date Curreney         Equivalent
+090                           50.000.000.00                  1,203.4000           09/05/2022             KRW                    60,170,000,000.00
+Payment                                        Payment
+TO BE ADVISED DIRECTLY                      TO BE ADVISED DIRECTLY
+REMARKS:
+BROKERAGI         KRW 750,000
+
+Please contact us immediately should these particulars not be in accordance with your understanding.
+
+REGARDS.

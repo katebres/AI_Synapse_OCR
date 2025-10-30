@@ -1,0 +1,75 @@
+Daily Valuation Dates (t):                 Any Exchange Business Day, including any Exchange Business Day that is a Disrupted Day with respect to any Underlying
+0
+
+Cash Settlement Payment Date            16-Sep-22                          (second Currency Business Days after Valuation Date (6))
+
+Subject to adjustment in accordance with the Business Day Convention.
+Party B Payment                             Party B shall pay Floating Rate on the ENA on each Party B Payment Date as determined by the Calculation Agent.
+
+Party B Payment shall accrue from (and including) a Party B Payment Date to (and excluding) the next relevant Party B
+Payment Date provided that for the purpose of the first Party B Payment Date, Party B Payment shall accrue from (and
+including) the Effective Date to (and excluding) the first Party B Payment Date falling on 'December 2019.
+
+Party B Payment Date               On every ' 23 September, 23 December, 23 March, 23 June' starting 3 months after the Effective Date and ending on
+Termination Date, subject to adjustment in accordance with the Following Business Day Convention and the occurrence of
+Early Equity Amount Opportunity or Early Equity Amount Opportunity II.
+
+Upon the occurrence of Early Equity Amount Opportunity (k) or Early Equity Amount Opportunity II, if the relevant Party B
+Payment Date does not fall on the Early Cash Settlement Date (k) or Early Cash Settlement Date II (as applicable), then the
+final Party B Payment that Party B shall pay shall be calculated from (and including) the immediately preceding Party B
+Payment Date to (but excluding) that Early Cash Settlement Date (k) or Early Cash Settlement Date II (as applicable). This
+Party B Payment shall be final and be paid on the Early Cash Settlement Date (k) or Early Cash Settlement Date II (as
+applicable) and no further Party B Payment shall be required.
+
+Floating Rate:                                '3 Months USD LIBOR +50 Bps calculated on actual/360 (Fixed)
+The fixing of the 3 months USD LIBOR published daily on Reuters page LIBORO! at 11:00 am, London time, one
+London Business day prior to the immediately preceding Party B Payment Date. If no such rate is quoted, the Floating
+Rate shall be determined by the Calculation Agent in a commercially reasonable manner. However , the Floating Rate
+for the first Party B Payment Date will be the Floating Rate as set out on that page on '20 September 2019'.
+
+Secondary market:                            Under normal market conditions, Société Générale will provide a secondary market monthly with a 1% bid/offer spread.
+Calculation Agent:                             Société Générale. The Calculation Agent shall act in good faith and in a commercially reasonable manner.
+Documentation:                           2002 ISDA Equity Derivatives Definitions and 2000 ISDA Definitions. It shall also include other customary provisions (e.g.
+
+Inconvertibility Event, FX Disruption Event and Effect of FX Disruption Event) for Transactions with South-Korean
+counterparties as deemed appropriate by the Calculation Agent.
+
+The terms and conditions contained herein are indicative, and may change with market fluctuations. It does not constitute an offer to enter into a transaction with such
+terms and conditions. Amongst other things, the pricings shown in this indicative term sheet may change at any time without notice. The client should be aware that
+Societe Generale is not bound to enter into any transaction even if the client accepts these indicative terms and conditions immediately upon receipt. If the client is
+agreeable to these terms and conditions, it should make an offer in the same terms to Societe Generale. No transaction will be effected unless and until Societe Generale
+has expressly confirmed its acceptance of the offer of the client."
+
+Société Générale assumes no fiduciary or other responsibility or liability to any person for any consequences, financial or otherwise, arising from this transaction. The
+investor should make its own appraisal of the risks and should consult to the extent necessary its own legal, financial, tax, accounting and other professional advisors in
+this respect prior to entering into any transaction.
+
+Incorporation of the ISDA 2015 Section 871(m) Protocol. Party A and Party B hereby incorporate by reference the ISDA 2015 Section 871(m) Protocol
+published by the International Swaps and Derivatives Association, Inc. on November 2, 2015 and agree and acknowledge that the amendments and
+modifications contained therein are made to the Master Agreement.
+
+This Transaction is subject to withholding on dividend equivalent payments under Section 871(m) of the U.S. Internal Revenue Code.
+
+MULTIPLE EXCHANGE INDEX ANNEX
+
+If “Multiple Exchange” is specified as the Exchange in relation to and/or this Multiple Exchange Index Annex otherwise applies to an Index, then the following terms
+shall apply to such Index. In the event of any inconsistency between this Multiple Exchange Index Annex and the Confirmation with respect to such Index, the Multiple
+Exchange Index Annex shall govern.
+
+In the event of any inconsistency between this Multiple Exchange Index Annex and the Definitions, this Multiple Exchange Index Annex shall govern.
+
+Component Security:                          Each component security of the Index.
+
+Amendment to Section 6.8(e):               The words "the level of the relevant Index at the close of the regular trading session on the relevant Exchange" on lines 4 and
+5 of Section 6.8(e) of the Equity Definitions shall be deleted and replaced with the words "the official closing level of the
+Index as calculated and published by the Index Sponsor".
+
+Exchange Business Day:                    Any Scheduled Trading Day on which: (i) the Index Sponsor publishes the level of the Index; and (ii) the Related Exchange is
+open for trading during its regular trading session, notwithstanding the Related Exchange closing prior to its Scheduled
+Closing Time.
+
+Valuation Time:                                (i) For the purposes of determining whether a Market Disruption Event has occurred: (a) in respect of any Component
+
+Security, the Scheduled Closing Time on the Exchange in respect of such Component Security, and (b) in respect of any
+options contracts or future contracts on the Index, the close of trading on the Related Exchange; and (ii) in all other
+circumstances, the time at which the official closing level of the Index is calculated and published by the Index Sponsor.

@@ -1,0 +1,78 @@
+.                   Automatic Callable Swap Linked to the Performance of NIKKEI225
+16011 17001 [ydex, HSCEI Index, S&P500 Index and the EURO STOXX 50 Index
+
+eilameuwencemmm Final Terms & Conditions as of April 24, 2019
+
+Solutions
+
+Equity Amount Payer
+Payment on Final Payment
+Date (subject to Early
+Termination):
+
+Proprietary & Confidential
+
+“FXm” means the KRW/USD Exchange Rate on two Business Day after the relevant
+Valuation Date as determined by the Calculation Agent.
+
+“KRW/USD Exchange Rate” means the market average rate as displayed on Reuters Screen
+KFTC18 Page (the “Reference Page”) as at 3:10 p.m. Seoul time on such day, or any successor
+Reference Page as determined by the Calculation Agent at the relevant date, provided that:
+
+if no successor page is available, or
+
+to the extent that (1) a Disruption Event (as defined in the Confirmation relating to this
+Transaction) has occurred and is continuing on the Termination Date, or (2) the Calculation
+Agent determines that the page does not reflect the current tradable exchange rate used by
+market participants not resident in Korea,
+
+then the KRW/USD Exchange Rate shall be determined by the Calculation Agent taking into
+consideration all available information that in good faith it deems relevant.
+
+If the WOPerformance on the Final Knock-Out Determination Date is equal to or greater than
+65%, then
+
+Equity Notional Amount * 9.630% converted to US dollars at Fxm
+Where:
+
+WOPerformance              =              Min              (NKY_ Performance,             HSCEI Performance,
+S&P500_ Performance , SXSE_ Performance);
+
+NKY_ Performance = NKYf/NKYo,
+
+HSCEI Performance = HSCEH/HSCEIo,
+
+S&P500_ Performance = S&P500f/S&P5000;
+
+SXSE_ Performance = SX5Ef/SX5Eo;
+NKYf is the official closing level of NKY on the relevant Knock-out Determination Day;
+NKYo is the official closing level of NKY on the Initial Valuation date, being 22,200.00;
+
+HSCEIf is the official closing level of HSCEI on the relevant Knock-out Determination
+Date;
+
+HSCEIo is the official closing level of HSCEI on the Initial Valuation date, being 11,663.78;
+
+S&P500f is the official closing level of S&P500 on the relevant Knock-out Determination
+Day;
+
+S&P5000 is the official closing level of S&P500 on the Initial Valuation date, being
+2,927.25;
+
+SXS5Ef is the official closing level of SXSE on the relevant Knock-out Determination Day;
+SX5Eo is the official closing level of SX5E on the Initial Valuation date, being 3,502.63;
+
+This information is for your private information and is for discussion purposes only. We are not soliciting any action based upon it. We are
+acting solely in the capacity of an arm’s length counterparty and not in the capacity of your financial adviser or fiduciary. We or our affiliates
+may buy or sell instruments identical or economically related to any instruments mentioned here. We or our affiliates may have an investment
+banking or other commercial relationship with the issuer of any security or financial instrument mentioned here or related thereto. Generally, all
+over-the-counter (“OTC”) derivative transactions involve the risk of adverse or unanticipated market developments, risk of illiquidity and other
+risks. A variety of market factors and assumptions may affect any scenario analysis set out herein, and any such analysis does not reflect all
+possible loss scenarios. There is no certainty that the parameters and assumptions used in any such analysis can be duplicated with actual trades.
+Unless specifically stated otherwise, any prices mentioned here are not bids or offers by MLI to purchase or sell any securities or financial
+instruments. Prior to undertaking any trade, you should discuss with your professional tax or other adviser how such particular trade(s) affect
+you. Options are not suitable for all investors. Option buyers may lose their entire investment. Option sellers may have an unlimited loss.
+
+THIS BRIEF STATEMENT DOES NOT DISCLOSE ALL OF THE RISKS AND OTHER SIGNIFICANT ASPECTS OF ENTERING INTO ANY
+
+PARTICULAR TRANSACTION.

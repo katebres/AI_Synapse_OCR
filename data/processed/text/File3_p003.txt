@@ -1,0 +1,76 @@
+3. Nikkei 225 Index (Bloomberg Code: NKY Index)
+
+Exchange
+
+Initial Level
+
+Knock-in Strike
+
+Autocall Strike
+
+In respect of S&P 500 Index, The primary exchange(s) or quotation systems on
+which the securities comprising each Index are traded or quoted or any
+successor and in respect of Hang Seng China Enterprise Index, Hong Kong
+Stock Exchange or any successor and in respect of Nikkei 225 Index, Tokyo
+Stock Exchange or any successor.
+
+1. S&P 500 Index: 2,924.43, being the Closing Level on the Trade Date
+
+2. Hang Seng China Enterprise Index: 10,177.29, being the Closing Level on
+the Trade Date
+
+3. Nikkei 225 Index: 20,618.57, being the Closing Level on the Trade Date
+
+1. S&P 500 Index: 1,462.2150, being 50.0000% * Initial Level
+
+2. Hang Seng China Enterprise Index: 5,088.6450, being 50.0000% * Initial
+Level
+
+3. Nikkei 225 Index: 10,309.2850, being 50.0000% * Initial Level
+
+1                   2                   3
+
+1st Valuation                                                                     90.0000% *
+Date        2,631.9870 | 9,159.5610 | 18,556.7130       Initial Level
+
+2nd Valuation                                                                     85.0000% *
+Date        2,485.7655 | 8,650.6965 | 17,525.7845       Initial Level
+
+3rd Valuation                                                                     80.0000% *
+Date        2,339.5440 | 8,141.8320 | 16,494.8560       Initial Level
+
+4th Valuation                                                                     80.0000% *
+Date        2,339.5440 | 8,141.8320 | 16,494.8560       Initial Level
+
+5th Valuation                                                                     75.0000% *
+Date        2,193.3225 | 7,632.9675 | 15,463.9275       Initial Level
+Final Valuation                                                                    70.0000% *
+Date        2,047.1010 | 7,124.1030 | 14,432.9990       Initial Level
+
+Equity Amount
+
+Equity Amount
+
+LP Ratio
+
+Underlying Asset Price Return
+
+If Knock-out does not occur on or prior to the Final Valuation Date, then
+
+1) if Knock-in Event has not occurred, Nomura Financial Investment (Korea) Co.,
+Ltd. will pay to Counterparty on the relevant Cash Settlement Payment Date an
+amount in USD equal to
+
+*Notional Amount
+
+2) if Knock-in Event has occurred, Counterparty will pay to Nomura Financial
+Investment (Korea) Co., Ltd. on the relevant Cash Settlement Payment Date an
+amount in USD Equal to
+
+Notional Amount * (100% - LP Ratio as of Final Valuation Date)
+
+The lowest Underlying Asset Price Return
+
+In respect of each Asset, Closing Level as of the relevant day / Initial Level
+(expressed by as a percentage)
+

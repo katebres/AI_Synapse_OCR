@@ -1,0 +1,65 @@
+Standard Chartered
+590재월은행 &
+
+KRW Cross Currency Swap 1
+
+Preliminary Confirmation
+
+Date 26 May 2024                                          From          Seonwoong Ham
+To         KDB Infrastructure Investments Asset                        Standard Chartered Bank Korea Ltd
+Management Co., Ltd.
+Tel No.
+Fax No.                                                           Fax No.
+
+Subject  Preliminary Terms and Conditions for USD/KRW Cross Currency Swap
+
+lek Disclosure Statements
+This Is an ofF-xchango darvative produc. As such, you may i 0 01000 to establish 2 190 0000 and to 000 your exposure to Fisk. Upon entering 1710 this taneacton, you wl be
+contnuaty bound 10 SC BANK under 80 tre ofthe wansacton, 40065 ofterwise exressy saad inthe terms of the rersacions, this ansacion may not be lamnated prt the
+termination dai wou the consent of SC BANK and upon tems agreed betawen you and SC. GANK. Sch lems may 00000 the cost of unwinding a Nedging poston taken by SC BANK
+that are © be payable by ou. The cost of eal termnaton of te Yensacon ner a, may be substan. you are entering Into the ansacson fr hedging purposes hs 00040 may 이
+‘match your exposure prfocty and wl na rack any changes othe undervng exposure, pola eavng you Undor ar over hadged or wih oor exposures resulting om he transaction
+
+This is to acknowledge USD/KRW CCS deal done today as follows:
+
+Party A                                Standard Chartered Bank Korea Limited
+Party B                                       KIAMCO Shipping Professional Investment Private Investment No 2
+USD Notional Amount                 USD 3,755,000.00 (Amortized according to schedule below)
+KRW Notional Amount               : KRW 4,209,355,000 (Amortized according to schedule below)
+USDKRW Spot Rate                     1121.00
+Trade date                                : 26 May 2021
+Effective date                               28 May 2021
+Termination date                         8 Apr 2023
+Initial Exchange                         Party A pays USD 3,755,000.00 to Party 6 on 28 May 2021
+Party B pays KRW 4,209,355,000 to Party A on 28 May 2021
+Periodic Exchange                     : Party B pays USD Fixed 3.80% X USD Notional to Party A, ACT/360, Quarterly,
+
+Unadjusted, Following, Calculation Period and Payment Dates as specified in the Schedule.
+: Party B receives KRW Fixed 3.63% X KRW Notional from Party A, ACT/365, Quarterly,
+
+Unadjusted, Following, Calculation Period and Payment Dates as specified in the Schedule.
+Coupon amount and amortized amount to be exchanged.
+
+USD Schedule
+StartDate  EndDate  #Days ~~ Payment Date —_Notional Amount (USD)               USD Coupon
+2021-05-28 2021-06-30         33          2021-07-07              3,755,000.00                        13,079.91
+2021-06-30 2021-10-08 100         2021-10-15              3,755,000.00                        30,636.11
+2021-10-08 2022-01-08 92          2022-01-18              3,720,231.48                        36,127.58
+2022-01-08 2022-04-08 90          2022-04-18              3,685,462.96                        36,011.89
+2022-04-08 2022-07-08         91           2022-07-15              3,650,694.44                        35,066.94
+2022-07-08 2022-10-08         92          2022-10-17              3,615,925.92                        36,114.65
+2022-10-08 2023-01-08           92             2023-01-17                  3,581,157.40                              34,777.01
+
+Standard Chartered Bank, Korea Limited
+100, Kongpyung-dong, Chongro-gu, Seoul, 110-702, Korea Tel (82) (2) 3702-5073
+Fax (62) (2) 3702-4944
+
+“This documents saved by Standard Chartered First Bank Kora Limited (SCF). W cntainsndcalve teams 10 dscusson puxposos only and does na contite ary ole, recommendation or
+salisaton fo ary person to enter no any wansacton of adopt any hedging, 00009 er vestment sate, nor does 6 canstule ary redcion of key future movements In ales orice oF
+‘ny rpresenation tat ary sue ture movements wl nol 00000 those shown in any Huston. The indcatve 1009 aro olor compete noe fal and are subject oth fi tarmsheet
+‘onfimaton or othe docurents. The tems of any ranaacton entered 1900 wil be recorded ina wten conmation or 0081 document signed or entred ito bythe pares. Inthe eve any
+inconsistency between the inital and subsequent lermshees, the most recent acknowfedged or executed termsheet shall proval 10 the extent of such inconestoney 010 6 tha 15 any
+Inconsistency Betwoen an temmshoot and he exscuted confmation, the executed cantmaton shal reval. SCF has 00 Sducay duly towards you, and assumes no responsibly 0 0000
+
+‘en, and makes no represeniaton as tothe appopriatoness, suai or posible consoquences of, be prospecve transaction, SCPB, andlor acormocied company, may have a postion many
+fine instruments or currencies mentonadin his document. You are adused to make your own Independent judgment wah respect ay matter contained here

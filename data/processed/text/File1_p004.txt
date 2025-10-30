@@ -1,0 +1,55 @@
+.                   Automatic Callable Swap Linked to the Performance of NIKKEI225
+16011 17001 [ydex, HSCEI Index, S&P500 Index and the EURO STOXX 50 Index
+
+eieseencemmms § Fina] Terms & Conditions as of April 24, 2019
+
+Solutions                Proprietary & Confidential
+Early Termination                   WOPerformance is equal to or greater than the relevant Knock-out Barrier on the relevant
+Condition:                            Knock-out Determination Date, the swap is deemed to be early terminated. Below four digits of
+
+all the decimal points of the relevant Knock-out barriers are rounded down.
+
+Knock-out Determination Date     HSCEI         S&P500          SX5E
+
+1" Knock-out Determination Date 21,090.0000 | 11,080.5910 | 2,780.8875 | 3,327.4985
+
+2™! Knock-out Determination Date    PT 600000 | rnseraoan | 26345250 |
+
+19,980.0000       10,497.4020       2,634.5250        3,152.3670
+3" Knock-out Determination Date    2,977.2355
+6" Knock-out Determination Date    2,977.2355
+7" Knock-out Determination Date    2,802.1040
+8" Knock-out Determination Date    2,802.1040
+
+Final Knock-out Determination
+Date                               65%      14,430.0000     7,581.4570     1,902.7125     2,276.7095
+
+Early Termination Amount      If Early Termination Condition is met:
+
+that is going to be paid by               (1) On 1* Knock-out Determination Date, Notional Amount x 1.070%
+Equity Amount Payer if                                                          oe                 .
+
+Early Termination                         (2) On 2™ Knock-out Determination Date, Notional Amount x 2.140%
+Condition is satisfied:                     (3) On 3" Knock-out Determination Date, Notional Amount x 3.210%
+
+(4) On 4" Knock-out Determination Date, Notional Amount x 4.280%
+(5) On 5" Knock-out Determination Date, Notional Amount x 5.350%
+(6) On 5" Knock-out Determination Date, Notional Amount x 6.420%
+(7) On 5" Knock-out Determination Date, Notional Amount x 7.490%
+(8) On 5" Knock-out Determination Date, Notional Amount x 8.560%
+
+Converted to US Dollars at FXm
+
+This information is for your private information and is for discussion purposes only. We are not soliciting any action based upon it. We are
+acting solely in the capacity of an arm’s length counterparty and not in the capacity of your financial adviser or fiduciary. We or our affiliates
+may buy or sell instruments identical or economically related to any instruments mentioned here. We or our affiliates may have an investment
+banking or other commercial relationship with the issuer of any security or financial instrument mentioned here or related thereto. Generally, all
+over-the-counter (“OTC”) derivative transactions involve the risk of adverse or unanticipated market developments, risk of illiquidity and other
+risks. A variety of market factors and assumptions may affect any scenario analysis set out herein, and any such analysis does not reflect all
+possible loss scenarios. There is no certainty that the parameters and assumptions used in any such analysis can be duplicated with actual trades.
+Unless specifically stated otherwise, any prices mentioned here are not bids or offers by MLI to purchase or sell any securities or financial
+instruments. Prior to undertaking any trade, you should discuss with your professional tax or other adviser how such particular trade(s) affect
+you. Options are not suitable for all investors. Option buyers may lose their entire investment. Option sellers may have an unlimited loss.
+
+THIS BRIEF STATEMENT DOES NOT DISCLOSE ALL OF THE RISKS AND OTHER SIGNIFICANT ASPECTS OF ENTERING INTO ANY
+PARTICULAR TRANSACTION.

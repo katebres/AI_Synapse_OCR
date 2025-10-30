@@ -1,0 +1,35 @@
+Hedge Positions
+
+Business Day
+
+Independent Amount
+
+which may involve the replacement of the affected Asset with a new Asset., or
+the termination of this Transaction and the determination of the amount payable
+as a result of such termination
+
+Any purchase, sale, entry into or maintenance of one or more securities,
+currency, derivatives positions, stock borrow transaction or other instruments or
+arrangements (howsoever described) by Equity Amount Payer or any of its
+affiliates in order to hedge, individually or on a portfolio basis, this Transaction.
+
+Seoul, New York
+
+The Independent Amount in respect of Counterparty for the purposes of this
+Transaction shall be 18.0000% of the Notional Amount or its equivalent Value
+(as defined in the Credit Support Annex) after applying the applicable Valuation
+Percentage to the market value of such Independent Amount on each Valuation
+Date (as defined in the Credit Support Annex), as determined by Nomura
+Financial Investment (Korea) Co., Ltd.. The Independent Amount shall be
+delivered by Counterparty to Nomura Financial Investment (Korea) Co., Ltd.
+immediately upon Nomura Financial Investment (Korea) Co., Ltd.’s request.
+
+Notwithstanding any provision to the contrary contained in the Credit Support
+Annex, the Independent Amount shall be delivered without regard to the
+Minimum Transfer Amount and Nomura Financial Investment (Korea) Co., Ltd.
+shall have no obligation to return the Independent Amount to Counterparty until
+the Termination Date and until all amounts payable by Counterparty to Nomura
+Financial Investment (Korea) Co., Ltd., following the full and final termination this
+Transaction, have been paid in full, as determined by Nomura Financial
+Investment (Korea) Co., Ltd..
+

@@ -1,0 +1,86 @@
+omissions in the contents of this document, which may arise as a result of electronic transmission. If
+
+verification is required, please request a hard-copy version.
+
+TERMS & CONDITIONS
+
+Term
+
+Equity Amount Payer
+
+Equity Amount Receiver
+(Counterparty)
+
+Floating Amount Payer
+Floating Amount Receiver
+Instrument
+
+Trade Date
+
+Effective Date
+Termination Date
+Notional Amount
+Settlement Currency
+
+Initial Exchange Amount
+Initial Exchange Payment
+Date
+
+Valuation Date(s)
+
+Asset
+
+Condition
+
+Nomura Financial Investment (Korea) Co., Ltd.
+Shinyoung Securities Co., Ltd.
+
+Counterparty
+
+Nomura Financial Investment (Korea) Co., Ltd.
+OTC Equity Swap
+
+21-Aug-2019
+
+23-Aug-2019
+
+18-Aug-2022, subject to a Knock-out
+
+USD 2,812,600
+
+USD 8,437.80 (0.300% of Notional Amount, payable by Nomura Financial
+Investment (Korea) Co., Ltd. to Counterparty)
+
+14-Feb-20
+2nd Valuation Date | 14-Aug-20
+3rd Valuation Date | 16-Feb-21
+4th Valuation Date | 16-Aug-21
+15-Feb-22
+Final Valuation Date | 16-Aug-22
+
+1st Valuation Date
+
+5th Valuation Date
+
+For the avoidance of doubt, each Valuation Date shall be a Scheduled Trading
+Day for the Exchange. If it is not such a day then Valuation Date is postponed to
+the next such day, and where a Valuation Date is postponed due to the
+occurrence of a Disrupted Day, the Valuation Date for each Asset shall be
+postponed together.
+
+Where a Valuation Date is postponed due to the occurrence of a Disrupted Day,
+the provisions of Section 6.6 of the Equity Definitions will apply, provided that the
+passage in Section 6.6(c) “, the Valuation Date for each Share not affected by
+the occurrence of a Disrupted Day shall be the Scheduled Trading Day, and the
+Valuation Date for each Share affected by the occurrence of a Disrupted Day”
+shall be deleted and replaced with “, for all Shares in the Reference Basket,
+regardless of whether or not they are affected by the occurrence of the Disrupted
+Day, the Valuation Date” and that the phrase “relating to that Share” in the fourth
+and fifth lines of Section 6.6(c) are deleted.
+
+Ordinary assets (each, an “Asset”) of
+
+2. S&P 500 Index (Bloomberg Code: SPX Index)
+
+2. Hang Seng China Enterprise Index (Bloomberg Code: HSCEI Index)
+

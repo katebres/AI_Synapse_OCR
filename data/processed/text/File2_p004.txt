@@ -1,0 +1,53 @@
+Market Disruption Event:
+
+Trading Disruption:
+
+Exchange Disruption
+
+Early Closure:
+
+Disrupted Day:
+
+Either:
+(i)(a) the occurrence or existence, in respect of any Component Security, of:
+
+(1) a Trading Disruption, which the Calculation Agent determines is material, at any time during the one hour period that ends
+at the relevant Valuation Time in respect of the Exchange on which such Component Security is principally traded;
+
+(2) an Exchange Disruption, which the Calculation Agent determines is material, at any time during the one hour period that
+ends at the relevant Valuation Time in respect of the Exchange on which such Component Security is principally traded; OR
+
+(3) an Early Closure; AND
+
+(b) the aggregate of all Component Securities in respect of which a Trading Disruption, an Exchange Disruption or an Early
+Closure occurs or exists comprises 20 per cent. or more of the level of the Index; OR
+
+(ii) the occurrence or existence, in respect of futures or options contracts relating to the Index, of: (a) a Trading Disruption;
+(b) an Exchange Disruption, which in either case the Calculation Agent determines is material, at any time during the one
+hour period that ends at the Valuation Time in respect of the Related Exchange; or (c) an Early Closure.
+
+For the purposes of determining whether a Market Disruption Event exists in respect of the Index at any time, if a Market
+Disruption Event occurs in respect of a Component Security at that time, then the relevant percentage contribution of that
+Component Security to the level of the Index shall be based on a comparison of (x) the portion of the level of the Index
+attributable to that Component Security to (y) the overall level of the Index, in each case using the official opening weightings
+as published by the Index Sponsor as part of the market "opening data".
+
+Any suspension of or limitation imposed on trading by the relevant Exchange or Related Exchange or otherwise and whether
+by reason of movements in price exceeding limits permitted by the relevant Exchange or Related Exchange or otherwise: (i)
+relating to any Component Security on the Exchange in respect of such Component Security; or (ii) in futures or options
+contracts relating to the Index on the Related Exchange.
+
+Any event (other than an Early Closure) that disrupts or impairs (as determined by the Calculation Agent) the ability of
+market participants in general to effect transactions in, or obtain market values for: (i) any Component Security on the
+Exchange in respect of such Component Security; or (ii) futures or options contracts relating to the Index on the Related
+Exchange.
+
+The closure on any Exchange Business Day of the Exchange in respect of any Component Security or the Related Exchange
+prior to its Scheduled Closing Time unless such earlier closing is announced by such Exchange or Related Exchange (as the
+case may be) at least one hour prior to the earlier of: (i) the actual closing time for the regular trading session on such
+Exchange or Related Exchange (as the case may be) on such Exchange Business Day; and (ii) the submission deadline for
+orders to be entered into the Exchange or Related Exchange system for execution at the relevant Valuation Time on such
+Exchange Business Day.
+
+Any Scheduled Trading Day on which: (i) the Index Sponsor fails to publish the level of the Index; (ii) the Related Exchange
+fails to open for trading during its regular trading session; or (iii) a Market Disruption Event has occurred.

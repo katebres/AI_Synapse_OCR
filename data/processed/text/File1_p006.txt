@@ -1,0 +1,79 @@
+.                   Automatic Callable Swap Linked to the Performance of NIKKEI225
+(91001 [dex, HSCEI Index, S&P500 Index and the EURO STOXX 50 Index
+
+eieseencemmms § Fina] Terms & Conditions as of April 24, 2019
+Solutions                Proprietary & Confidential
+
+Require Floating Amount payer, in the case of shares or other securities being delivered by
+Equity Amount Payer for the purposes of satisfying its obligations at settlement, to pay all costs,
+fees and reasonable expenses incurred by Equity Amount payer in respect of such delivery;
+
+In accordance with detailed provisions of the Confirmation relating to this Transaction (see
+“Documentation” below).
+
+Documentation:                       ISDA Master Agreement and Transaction Confirmation (which will incorporate the ISDA 2002
+Equity Derivatives Definitions and the 2006 ISDA Definitions)
+Floating Amount Leg:             KRW-CD-KSDA-Bloomberg. plus 0.10%.
+
+For this purpose, “KRW-CD-KSDA-Bloomberg” means
+
+that the rate for a Reset Date will be the Korean bond rate for 91 day certificate of deposit
+published by the Korean Securities Dealers Association which appears on Bloomberg
+Screen KSDA4 Page under the heading "15:30 Value" as of 3:30 p.m. Seoul time, on the
+day that is one Seoul Business Day preceding that Reset Date. If any of such rate does not
+appear on the Bloomberg Screen KSDA4 Page by 4:30 p.m. Seoul time on that day, the rate
+for that Reset Date will be the Korean bond rate for 91 day certificate of deposit published
+by the Korean Securities Dealers Association which appears on Check Screen Page 3220
+under the caption "TODAY 15:30" as of 4:30 p.m. Seoul time on that day. If such rate does
+not appear on the Check Screen Page 3220 by 4:30 p.m. Seoul time on that day, the rate for
+that Reset Date will be the arithmetic mean of the secondary market final closing rates for
+91 day CDs quoted by the Reference Dealers as of 4:30 p.m. Seoul time on the day that is
+one Seoul Business Day preceding that Reset Date, as set out below.
+
+Floating Rate
+
+The Calculation Agent will request the Seoul office of each of the Reference Dealers to
+provide a quotation of its rate. If at least four quotations are provided, the rate for that
+Reset Date will be the arithmetic mean of the quotations. If fewer than four quotations are
+provided as requested, the rate for that Reset Date will be determined by the Calculation
+
+Agent
+
+Floating Rate Day Count         Actual/365 (Fixed)
+
+Fraction
+
+Floating Amount                    An amount equal to the product of (i) the Floating Rate (ii) Actual/365 (Fixed) and (iii)
+Notional Amount divided by (1) FX; "FX," means the KRW/USD Exchange Rate
+on two Business Days before the Relevant Floating Amount Payer Payment Date as determined
+by the Calculation Agent.
+
+Reset Dates                            First day of the Calculation Period
+
+Floating Amount Payer           On every January 30, April 30, July 30 and October 30 starting on July 30, 2019 and ending on
+
+Payment Date                        the Termination Date. (all subject to the Business Day Convention) provided that if the
+
+Knock-out Event occurs, the last Floating Amount Payer Payment Date is deemed to be the
+Cash Settlement Payment Date relating to the Knock-out Valuation Date and in the event that a
+Disrupted Day occurs on the Scheduled Valuation Date immediately prior to the Cash
+Settlement Payment Date, the relevant Floating Amount Payer Payment Date immediately after
+such Scheduled Valuation Date is deemed to be the Cash Settlement Payment Date.
+
+Business Day Convention         Following
+
+Calculation Period                 As defined in the 2006 ISDA Definitions.
+
+This information is for your private information and is for discussion purposes only. We are not soliciting any action based upon it. We are
+acting solely in the capacity of an arm’s length counterparty and not in the capacity of your financial adviser or fiduciary. We or our affiliates
+may buy or sell instruments identical or economically related to any instruments mentioned here. We or our affiliates may have an investment
+banking or other commercial relationship with the issuer of any security or financial instrument mentioned here or related thereto. Generally, all
+over-the-counter (“OTC”) derivative transactions involve the risk of adverse or unanticipated market developments, risk of illiquidity and other
+risks. A variety of market factors and assumptions may affect any scenario analysis set out herein, and any such analysis does not reflect all
+possible loss scenarios. There is no certainty that the parameters and assumptions used in any such analysis can be duplicated with actual trades.
+Unless specifically stated otherwise, any prices mentioned here are not bids or offers by MLI to purchase or sell any securities or financial
+instruments. Prior to undertaking any trade, you should discuss with your professional tax or other adviser how such particular trade(s) affect
+you. Options are not suitable for all investors. Option buyers may lose their entire investment. Option sellers may have an unlimited loss.
+
+THIS BRIEF STATEMENT DOES NOT DISCLOSE ALL OF THE RISKS AND OTHER SIGNIFICANT ASPECTS OF ENTERING INTO ANY
+PARTICULAR TRANSACTION.

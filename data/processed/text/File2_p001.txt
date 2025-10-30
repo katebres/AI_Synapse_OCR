@@ -1,0 +1,154 @@
+SOCIETE
+GENERALE
+
+GENERAL TERMS
+
+Party A:
+
+Party B:
+
+Trade Date:
+
+Strike Date:
+Effective Date:
+Termination Date:
+Settlement Currency:
+
+3 - Year(s) CALLABLE SWAP LINKED TO 3 Indices: SPX, STOXXS50E, HSCE
+
+SOCIETE GENERALE
+
+NH INVESTMENT AND SECURITIES CO., LTD
+19-Sep-19
+19-Sep-19
+23-Sep-19
+The earlier of (i) Cash Settlement Payment Date and (ii) an Early Cash Settlement Date.
+USD
+
+(2 Currency Business Days after the Trade Date)
+
+The Equity Amount Payer pays on the Cash Settlement Payment Date, the Equity Amount determined in accordance with the following :
+
+Equity Notional Amount ("ENA"):
+
+USD 618,100
+
+The Fixed Amount Payer pays on the Fixed Amount Payment Date, the Fixed Amount:
+
+Fixed Amount:
+Fixed Amount Payer:
+Fixed Amount Payment Date:
+
+Underlying (i):
+
+(i from 1 to 3)
+
+Name (Code)
+
+S&P 500 INDEX (.SPX)
+
+EURO STOXX 50 INDEX
+(.STOXXSO0E)
+
+HANG SENG CHINA ENTERPRICES
+INDEX (.HSCE)
+
+Currency Business Day:
+
+Business Day Convention:
+Index Level:
+
+Initial Level (i) or "IL(@)"
+
+Underlying (i):
+
+Barrier Level 1
+Barrier Level 2
+Barrier Level 3
+Barrier Level 4
+Barrier Level 5
+Barrier Level 6
+Glider Level :
+
+USD 7,417.20 ( 1.20% of the ENA )
+Party A
+Effective Date
+
+Each of the indices as listed in the table below:
+
+Index Sponsor                                            Exchange                                 Related Exchange
+S&P Dow Jones Indices LLC or any successor to New york stock exchange, Nasdaq __ All Exchanges
+such Index Sponsor.                                      Stock Market or any successor to
+
+such exchange
+STOXX Limited or any successor to such Index “Multiple Exchange”, which means All Exchanges
+
+the Exchange in respect of each
+Component Security is the stock
+exchange on which that Component
+Security is principally traded
+
+Sponsor.
+
+Hong Kong stock Exchange or any —_ All Exchanges
+successor to such exchange
+
+Hang Seng Indexes Company Limited or any
+successor to such Index Sponsor.
+
+Any day on which banks are open for transactions in foreign exchange and foreign currency deposits in Seoul and New York.
+
+Following
+
+With regard to each Index comprised in the Basket, the official closing level of such Index published and announced by its
+Index Sponsor
+
+Index Level of the Underlying (i) on the Strike Date
+
+SPX            STOXXS0E           -HSCE
+Initial Level (i)                   3,006.7900         3,552.6500        10,385.3500
+90.00% x IL(i)                    2,706.1110          3,197.3850          9,346.8150
+90.00% x IL(i)                    2,706.1110          3,197.3850          9,346.8150
+85.00% x IL(i)                    2,555.7715          3,019.7525          8,827.5475
+80.00% x IL(i)                    2,405.4320          2,842.1200          8,308.2800
+75.00% x IL(i)                    2,255.0925          2,664.4875          7,789.0125
+65.00% x IL(i)                     1,954.4135          2,309.2225          6,750.4775
+75.00% x IL(i)                    2,255.0925          2,664.4875          7,789.0125
+
+The Early Equity Amount Payer pays on the Early Cash Settlement Date, the Early Equity Amount or the Early Equity Amount II determined in
+
+accordance with the following :
+Early Equity Amount Payer:
+
+Party A
+
+Early Equity Amount Opportunity (k) 구스 any Valuation Date (k) (k = I to 5)
+
+Early Equity Amount Opportunity 11
+
+the Index Level of the Underlying (i) with the Lowest Performance (k) is equal to or greater than its Barrier Level (k)
+
+an Early Equity Amount Opportunity (k) will be deemed to have occurred and Early Equity Amount Payer will pay the Early
+Equity Amount (k) on the relevant Early Cash Settlement Date (k), and the Transaction shall early terminate on such Early
+Cash Settlement Date (k). The parties will have no further obligations in respect of subsequent Early Equity Amount (k)
+(except payments that are due but unpaid, payment due in respect of Party B Payment as specified below, and payment that is
+required to be made pursuant to this paragraph).
+
+An Early Equity Amount Opportunity II is deemed to have occurred if the Calculation Agent determines on Valuation Date
+(2) that:
+
+(i) U(it) in respect of each Underlying (i) is equal to or greater than its Glider Level on every Daily Valuation Date(t) from
+but excluding Trade Date to and including Valuation Date (2) ; and
+
+(ii) Early Equity Amount Opportunity (k) has not occurred on or prior to Valuation Date (2)
+
+Upon the occurrence of Early Equity Amount Opportunity II, the Early Equity Amount Payer will pay the Early Equity
+Amount II on the Early Cash Settlement Date II, and the Transaction shall early terminate on such Early Cash Settlement Date
+II. The parties will have no further obligations (except payments that are due but unpaid, and payment due in respect of Party
+B Payment as specified below).
+
+Index (i=1)
+
+Index (i=2)
+
+Index (i=3)

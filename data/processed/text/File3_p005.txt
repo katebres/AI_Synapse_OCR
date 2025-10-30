@@ -1,0 +1,71 @@
+Day Count Fraction
+
+Floating Amount Payable by
+Counterparty
+
+Reset Date
+
+Floating Amount Payment
+Dates
+
+Calculation Period
+
+Other Terms
+Calculation Agent
+Definitions
+
+Potential Adjustment Events
+and Extraordinary Events
+
+2                                 21-Nov-19
+3                             20-Feb-20
+4                        21-May-20
+5                             20-Aug-20
+6                         19-Nov-20
+7                         19-Feb-21
+8                        20-May-21
+9                         19-Aug-21
+10                              19-Nov-21
+11                        18-Feb-22
+12                        19-May-22
+
+Actual/360
+An amount in USD equal to:
+Notional Amount * (Floating Rate + 0.5500%) * Day Count Fraction
+
+The first day of each Calculation Period
+
+Details are in the table below, subject to adjustment in accordance with the
+Modified Following Business Day Convention, provided that if Knock-out occurs,
+the last Floating Amount Payment Date is deemed to be the Cash Settlement
+Payment Date immediately following the Knock-out Date.
+
+As defined in the 2006 ISDA Definitions and detailed in the table below:
+
+Calculation       Calculation Period        Calculation Period       Floating Amount
+Period        Start Date (Inclusive)     End Date (exclusive)      Payment Dates
+1                23-Aug-19               25-Nov-19             25-Nov-19
+2                25-Nov-19               24-Feb-20             24-Feb-20
+3                24-Feb-20               26-May-20            26-May-20
+4               26-May-20               24-Aug-20             24-Aug-20
+5                24-Aug-20               23-Nov-20            23-Nov-20
+6                23-Nov-20               23-Feb-21             23-Feb-21
+7                23-Feb-21               24-May-21            24-May-21
+8               24-May-21               23-Aug-21             23-Aug-21
+9                23-Aug-21               23-Nov-21             23-Nov-21
+10               23-Nov-21               23-Feb-22             23-Feb-22
+11         23-Feb-22        23-May-22       23-May-22
+12               23-May-22               18-Aug-22             18-Aug-22
+
+Nomura Financial Investment (Korea) Co., Ltd.
+
+Terms used but not defined herein shall have the meanings given to them in the
+2006 ISDA Definitions and the 2002 ISDA Equity Derivatives Definitions.
+
+In connection with any Potential Adjustment Event, the Calculation Agent may
+make such adjustments to the terms of the Transaction as it deems appropriate
+to reflect the economic effect of such event.
+
+Upon the occurrence of an Extraordinary Event, the Calculation Agent may
+make such adjustments to the terms of the Transaction as it deems appropriate,
+
